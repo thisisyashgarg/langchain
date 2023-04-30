@@ -25,4 +25,4 @@ tornado==6.3.1
 trove_classifiers==2023.4.29
 truststore==0.7.0
 urllib3_secure_extra==0.1.0
-xmlrpclib==1.0.1
+
