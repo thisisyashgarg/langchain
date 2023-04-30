@@ -1,4 +1,5 @@
 .vscode
 apiKey.py
 __pycache__
+.venv
 
