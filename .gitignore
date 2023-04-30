@@ -1,5 +1,4 @@
 .vscode
 apiKey.py
 __pycache__
-langchain
-.chroma
+
