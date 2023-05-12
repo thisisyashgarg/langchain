@@ -9,6 +9,7 @@ attr==0.3.2
 attrs==23.1.0
 Babel==2.12.1
 backcall==0.2.0
+beautifulsoup4==4.12.2
 blinker==1.6.2
 boltons==23.0.0
 cachetools==5.3.0
@@ -37,6 +38,8 @@ HTMLParser==0.0.2
 idna==3.4
 imagesize==1.4.1
 importlib-metadata==6.6.0
+ipykernel==6.23.0
+ipython==8.13.2
 ipywidgets==8.0.6
 jaraco.classes==3.2.3
 jedi==0.18.2
@@ -62,6 +65,7 @@ mypy-extensions==1.0.0
 nest-asyncio==1.5.6
 numexpr==2.8.4
 numpy==1.24.3
+openai==0.27.6
 openapi-schema-pydantic==1.2.4
 packaging==23.1
 pandas==2.0.1
@@ -94,6 +98,7 @@ rich==13.3.5
 six==1.16.0
 smmap==5.0.0
 snowballstemmer==2.2.0
+soupsieve==2.4.1
 Sphinx==7.0.0
 sphinxcontrib-applehelp==1.0.4
 sphinxcontrib-devhelp==1.0.2
@@ -104,6 +109,7 @@ sphinxcontrib-serializinghtml==1.1.5
 SQLAlchemy==2.0.13
 stack-data==0.6.2
 streamlit==1.22.0
+style==1.1.0
 tenacity==8.2.2
 toml==0.10.2
 toolz==0.12.0
@@ -121,5 +127,6 @@ urllib3-secure-extra==0.1.0
 validators==0.20.0
 wcwidth==0.2.6
 widgetsnbextension==4.0.7
+wikipedia==1.4.0
 yarl==1.9.2
 zipp==3.15.0
